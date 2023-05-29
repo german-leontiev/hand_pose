@@ -19,4 +19,4 @@ MSE mediapipe: 0.003327881874557315
 И запустите приложение
 `python app.py`
 
-![Демо](demo.gif)
+![Демо](https://github.com/german-leontiev/hand_pose/blob/main/demo.gif)
